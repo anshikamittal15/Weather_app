@@ -1,0 +1,28 @@
+# 🌦️ Weather App 
+
+A responsive web application that fetches real-time weather data for cities worldwide using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript.
+
+---
+
+## ✨ Features
+
+- **Real-Time Weather Data**:  
+  Display temperature (°C), humidity (%), wind speed (km/h), and weather conditions.
+- **Dynamic Icons**:  
+  Weather icons change based on conditions (e.g., clouds, sun, rain).
+- **City Search**:  
+  Search for any city globally.
+- **Responsive Design**:  
+  Works on mobile and desktop.
+- **Error Handling**:  
+  Alerts for invalid cities or API errors.
+
+---
+
+## 🛠️ Technologies
+
+- **Frontend**: HTML, CSS, JavaScript
+- **API**: [OpenWeatherMap](https://openweathermap.org/api)
+- **Hosting**: GitHub Pages
+
+---
